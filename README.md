@@ -1109,7 +1109,7 @@
     <!-- Navbar -->
     <nav class="navbar" id="navbar">
       <div class="nav-container">
-        <a href="#" class="logo">Hanif Fazal's Portfolio</a>
+        <a href="#" class="logo">Mohamed Hanif Fazal's Portfolio</a>
         <div class="nav-links">
           <a href="#home">Home</a>
           <a href="#about">About</a>
@@ -1322,7 +1322,6 @@
     <!-- Footer -->
     <footer>
       <p>© 2025 Mohamed Hanif Fazal V M. All Rights Reserved.</p>
-      <p>Built with <a href="https://csedge.co">CSEdge</a> Portfolio Builder</p>
     </footer>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
