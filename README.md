@@ -1,6 +1,6 @@
 
 
-  <!DOCTYPE html>
+  
   <html lang="en">
   <head>
     <meta charset="UTF-8">
@@ -1109,7 +1109,7 @@
     <!-- Navbar -->
     <nav class="navbar" id="navbar">
       <div class="nav-container">
-        <a href="#" class="logo">Mohamed</a>
+        <a href="#" class="logo">Hanif Fazal's Portfolio</a>
         <div class="nav-links">
           <a href="#home">Home</a>
           <a href="#about">About</a>
